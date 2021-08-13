@@ -16,9 +16,9 @@ FayasNoushad = Client(
 API = "https://api.sumanjay.cf/covid/?country="
 
 START_TEXT = """
-Hello {}, I am a simple corona information of a country telegram bot.
-
-Made by @FayasNoushad
+Hello {}, Soo dhawoow Halkan waa bot telegram aad kala socon kartid Info covid_19 Waxaad samaysan kartaa Bot adi kuu qaas ah.
+kaliya daawo muuqaalka Channelka Hoose👇
+Made by @somali_tech
 """
 
 BUTTONS = InlineKeyboardMarkup(
